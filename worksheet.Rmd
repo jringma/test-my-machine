@@ -2,6 +2,7 @@
 title: configure git and data shortcut
 editor_options: 
   chunk_output_type: inline
+  blah blah blah
 ---
 
 # Git in the Shell
